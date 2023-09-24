@@ -1,0 +1,67 @@
+html{
+    background-color: black;
+}
+
+ body{
+    background-color: black;
+    color: white;
+    
+ }
+ .navbar{
+    text-decoration: none;
+    box-sizing: border-box;
+ }
+ h1{
+    display: inline;
+    float: left;
+    text-align: left;
+ }
+ section{
+    display:inline;
+    float: right;
+    padding-right: 50px;
+ }
+
+ section > h1{
+  text-align: left;
+  padding-right: 900px;
+  font-size: 2em;
+ }
+
+ 
+ 
+.title{
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-left: 100px;
+    margin-top: -10px;
+}
+.main-wrapper{
+ padding-top:  8px; ;
+ display: flex;
+ align-items: center;
+ text-align: center;
+}
+
+.playful{
+    color: red;
+}
+
+.image{
+    margin-left: 100px;
+    margin-top: 150px;
+    display: block;
+   margin-right:200px ;
+   overflow: clip;
+    
+}
+h2{
+    margin-top: 200px;
+    margin-left: 135px;
+    font-size: 32px;
+    font-weight: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+}   
+
