@@ -5,6 +5,8 @@ html{
  body{
     background-color: black;
     color: white;
+     margin:0;
+     padding:0;
     
  }
  .navbar{
@@ -57,7 +59,7 @@ html{
     
 }
 h2{
-    margin-top: 200px;
+    margin-top: 20px;
     margin-left: 135px;
     font-size: 32px;
     font-weight: 500px;
